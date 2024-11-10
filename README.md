@@ -354,3 +354,5 @@ output_path = '/content/drive/My Drive/quantum_reality.mp4'
 animation = simulation.generate_animation(output_path)
 print(f'Simulação salva em: {output_path}')
 ```
+
+Adilson Oliveira
