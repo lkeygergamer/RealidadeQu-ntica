@@ -1,6 +1,41 @@
 Adilson Oliveira
 
-Este código representa uma simulação de uma "Realidade Quântica", que utiliza uma visualização em 3D e anima elementos quânticos como partículas, um tesseracto (um hipercubo em 4D), e múltiplas realidades paralelas. Abaixo está uma explicação detalhada de cada seção do código e sua funcionalidade.
+
+```python
+# Copyright (c) Adilson Oliveira, 2024
+# 
+# Todos os direitos reservados.
+# 
+# Este código é fornecido para fins educacionais e de inspiração. A reprodução, modificação,
+# distribuição ou uso deste código para fins comerciais é estritamente proibida sem permissão prévia.
+# 
+# Para permissões especiais, entre em contato com o autor.
+```
+
+
+
+### Licença MIT
+
+```python
+# Copyright (c) Adilson Oliveira, 2024
+# 
+# Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+# associated documentation files (the "Software"), to deal in the Software without restriction, including
+# without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to
+# the following conditions:
+# 
+# The above copyright notice and this permission notice shall be included in all copies or substantial
+# portions of the Software.
+# 
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+# LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+# NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+# WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+# SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
+
 
 ### Estrutura e Documentação Completa do Código
 
