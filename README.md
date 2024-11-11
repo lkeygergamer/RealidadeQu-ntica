@@ -391,3 +391,7 @@ print(f'Simulação salva em: {output_path}')
 ```
 
 Adilson Oliveira
+
+vizualização :
+
+https://youtu.be/boVCsXcm97o 
